@@ -1,0 +1,16 @@
+{
+  "name": "codility-nona",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "faker": "^5.5.3",
+    "jest": "^27.4.5"
+  }
+}
